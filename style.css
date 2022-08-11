@@ -80,7 +80,11 @@ h1 {
 
 #fact {
   font-size: 25px;
-  padding-bottom: 2em;
+  padding-bottom: 1em;
+}
+
+#resource {
+  padding-bottom: 1em;
 }
 
 #groups {
